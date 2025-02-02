@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Centro Nacional de Inteligencia","SPAIN RP"];
+const statusMessages = ["CENTRAL DE LA GUARDIA CIVIL","CREADO POR QPROZ","SPAIN RP"];
 
 
 let currentIndex = 0;
